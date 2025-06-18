@@ -1,0 +1,62 @@
+{
+    "1": {
+        "name": "Table",
+        "description": "Beautiful green wood table",
+        "cost": "8761.00",
+        "category": "Furniture",
+        "id": "1",
+        "owner": "t",
+        "popularity": 2,
+        "date": "2025-06-03 18:00:15"
+    },
+    "2": {
+        "name": "tortoise",
+        "description": "small sea tortoise",
+        "cost": "656.00",
+        "category": "Other",
+        "id": "2",
+        "owner": "t",
+        "popularity": 2,
+        "date": "2025-06-03 18:36:59"
+    },
+    "3": {
+        "name": "Hat",
+        "description": "Black top hat",
+        "cost": "187.00",
+        "category": "Clothing",
+        "id": "3",
+        "owner": "t",
+        "popularity": 1,
+        "date": "2025-06-03 18:38:06"
+    },
+    "13": {
+        "name": "helicopter",
+        "description": "Military helicopter with two machine guns",
+        "cost": "99907654.00",
+        "category": "Vehicles",
+        "id": "13",
+        "owner": "darkus-_-",
+        "popularity": 0,
+        "date": "2025-06-03 19:48:40"
+    },
+    "15": {
+        "name": "book",
+        "description": "Fundamentals of differential equations",
+        "cost": "368.00",
+        "category": "Other",
+        "id": "15",
+        "owner": "darkus-_-",
+        "popularity": 2,
+        "date": "2025-06-03 20:23:48"
+    },
+    "16": {
+        "name": "phone",
+        "description": "nice phone",
+        "cost": "87332.00",
+        "category": "Other",
+        "id": "16",
+        "owner": "test",
+        "popularity": 1,
+        "date": "2025-06-08 18:21:01"
+    }
+}

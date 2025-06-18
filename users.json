@@ -1,0 +1,34 @@
+{
+    "darkus-_-": {
+        "first_name": "Pavel",
+        "last_name": "Krotov",
+        "birth_date": "2002-12-14",
+        "email": "krop2002@gmail.com",
+        "login": "darkus-_-",
+        "password": "pavel"
+    },
+    "t": {
+        "first_name": "t",
+        "last_name": "t",
+        "birth_date": "2000-01-01",
+        "email": "t",
+        "login": "t",
+        "password": "t"
+    },
+    "g": {
+        "first_name": "g",
+        "last_name": "g",
+        "birth_date": "2000-01-01",
+        "email": "g",
+        "login": "g",
+        "password": "g"
+    },
+    "test": {
+        "first_name": "test",
+        "last_name": "testovich",
+        "birth_date": "2005-05-14",
+        "email": "test@gmail.com",
+        "login": "test",
+        "password": "test"
+    }
+}
